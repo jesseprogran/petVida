@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background-color: rgb(255, 252, 252);
+    color: #263138;
+}
+
+header {
+    background-color: #FF9A6C;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+header nav a {
+    color: #FFFFFF;
+    font-weight: 600;
+    padding: 32px;
+    text-decoration: none;
+}
